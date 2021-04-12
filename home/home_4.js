@@ -8,7 +8,7 @@ let week={
     six: 'Saturday',
     seven: 'Sunday'
 }
-console.log(week.six)
+console.log(week.one)
 
 //2 ?????
 let arr = {
@@ -30,7 +30,7 @@ let isPlainObject = (c) => {
 }
 console.log(isPlainObject(user))
 
-//4
+//4 не знаю как и что объясни пожалуйста 
 let auto={
     name: 'Audi',
     isEngine: true,
